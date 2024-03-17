@@ -1,0 +1,2 @@
+for installing  dependency libraries  write the command bellow 
+pip install -r requirements.txt
